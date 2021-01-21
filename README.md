@@ -1,2 +1,2 @@
 # bulletinBoard
-Learning Project
+Learning Project (Databases)
