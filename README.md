@@ -1,2 +1,2 @@
 # bulletinBoard
-Learning SQL
+Learning Project
